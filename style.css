@@ -33,6 +33,7 @@ nav, .nav-links {
 }
 
 nav {
+    background-color: #e3f2fd;
     justify-content: space-around;
     align-items: center;
     height: 17vh;
